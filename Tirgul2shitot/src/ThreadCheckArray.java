@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class ThreadCheckArray implements Runnable 
-{//helloss
+{//hellosss
 	private boolean flag;
 	private boolean [] winArray;
 	SharedData sd;
